@@ -1,1 +1,1 @@
-New file only shows up in the new branch
+New file now shows up in both master and new-branch
